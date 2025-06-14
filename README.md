@@ -33,11 +33,7 @@ A user-friendly web application that predicts the risk of forest fires using mac
 
 ---
 
-## 📷 Screenshots
 
-*(Include relevant screenshots of the app UI here)*
-
----
 
 ## 📂 Project Structure
 
