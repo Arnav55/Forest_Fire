@@ -1,4 +1,4 @@
-🔥 Forest Fire Prediction Web App
+#🔥 Forest Fire Prediction Web App
 
 A user-friendly web application that predicts the risk of forest fires using machine learning. Developed with TensorFlow and Streamlit, this tool can help in early detection and prevention of wildfire outbreaks.
 
